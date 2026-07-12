@@ -80,6 +80,4 @@ fun_fact: "I debug with print statements and I'm not ashamed of it 😄"
 
 ### 🚀 Thanks for stopping by — let's build something great together!
 
-<img src="https://komarev.com/ghpvc/?username=rudramoradiya &style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
 </div>
