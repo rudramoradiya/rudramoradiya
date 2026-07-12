@@ -77,29 +77,9 @@ fun_fact: "I debug with print statements and I'm not ashamed of it 😄"
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB]&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB]&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 🚀 Thanks for stopping by — let's build something great together!
 
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB]&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rudramoradiya &style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
